@@ -1,0 +1,26 @@
+{
+    "play": {
+        "confidence": 80.0,
+        "path": ".images\\play-path.png",
+        "source": null,
+        "type": "image"
+    },
+    "rammstein": {
+        "confidence": 59.0,
+        "path": ".images\\rammstein-path.png",
+        "source": null,
+        "type": "image"
+    },
+    "search_bar": {
+        "confidence": 80.0,
+        "path": ".images\\search_bar-path.png",
+        "source": null,
+        "type": "image"
+    },
+    "sidebar_search": {
+        "confidence": 80.0,
+        "path": ".images\\sidebar_search-path.png",
+        "source": null,
+        "type": "image"
+    }
+}
